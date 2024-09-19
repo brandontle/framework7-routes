@@ -1,0 +1,13 @@
+{
+  "appId": "io.framework7.myapp",
+  "appName": "Framework7 Routes Test",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
